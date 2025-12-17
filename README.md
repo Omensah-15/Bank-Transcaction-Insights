@@ -112,6 +112,6 @@ This dashboard is composed of multiple visuals offering granular insight into th
 ---
 ## 👨‍💻 Author
 
-**Obed Mensah**  
-*Data Scientist — Python | Power BI | SQL | Analytics*  
-📧 [heavenzlebron7@gmail.com](mailto:heavenzlebron7@gmail.com)
+**Developed by Mensah Obed**
+[Email](mailto:heavenzlebron7@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/obed-mensah-87001237b)
